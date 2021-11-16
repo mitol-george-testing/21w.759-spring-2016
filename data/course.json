@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4188f62e-353d-9a45-df34-1d869485e93a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Writing Science Fiction",
+  "course_description": "This class will focus on the craft of writing genre science fiction. Students write and read science fiction and analyze and discuss stories written for the class. For the first eight weeks, readings in contemporary science fiction accompany lectures and formal writing assignments intended to illuminate various aspects of writing craft as well as the particular problems of writing science fiction. The rest of the term is given to roundtable workshops on student's stories.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.759",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
